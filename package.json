@@ -1,6 +1,6 @@
 {
   "name": "react-native-asyncstorage-helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides a few tools for working with AsyncStorage",
   "main": "index.js",
   "scripts": {
