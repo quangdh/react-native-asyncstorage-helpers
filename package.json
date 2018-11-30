@@ -1,8 +1,14 @@
 {
   "name": "react-native-asyncstorage-helpers",
-  "version": "1.0.2",
-  "description": "Provides a few tools for working with AsyncStorage",
+  "version": "1.0.5",
+  "description": "Provides a few tools for working with AsyncStorage is become more convenient.",
   "main": "index.js",
+  "keywords": [
+    "react",
+    "reactjs",
+    "asyncstorge",
+    "react-native-asyncstorge-helpers"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
