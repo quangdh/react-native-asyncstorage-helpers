@@ -5,7 +5,7 @@
   "main": "index.js",
   "keywords": [
     "react",
-    "reactjs",
+    "react-native",
     "asyncstorge",
     "react-native-asyncstorge-helpers"
   ],
