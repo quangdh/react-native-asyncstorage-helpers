@@ -1,6 +1,6 @@
 {
   "name": "react-native-asyncstorage-helpers",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Provides a few tools for working with AsyncStorage is become more convenient.",
   "main": "index.js",
   "keywords": [
@@ -26,7 +26,6 @@
     "ramda": "^0.25.0"
   },
   "peerDependencies": {
-    "react": "^16.5.0",
-    "react-native": "^0.41.2"
+    "@react-native-community/async-storage": "^1.3.3"
   }
 }
